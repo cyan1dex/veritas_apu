@@ -1,0 +1,66 @@
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\authsampleconsole.exe
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\appSettings.json
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\authsampleconsole.deps.json
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\authsampleconsole.runtimeconfig.json
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\authsampleconsole.runtimeconfig.dev.json
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\authsampleconsole.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\authsampleconsole.pdb
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\obj\Debug\netcoreapp3.1\authsampleconsole.csproj.AssemblyReference.cache
+C:\Users\CYAN1\source\repos\AuthSample\C#\obj\Debug\netcoreapp3.1\authsampleconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CYAN1\source\repos\AuthSample\C#\obj\Debug\netcoreapp3.1\authsampleconsole.AssemblyInfoInputs.cache
+C:\Users\CYAN1\source\repos\AuthSample\C#\obj\Debug\netcoreapp3.1\authsampleconsole.AssemblyInfo.cs
+C:\Users\CYAN1\source\repos\AuthSample\C#\obj\Debug\netcoreapp3.1\authsampleconsole.csproj.CoreCompileInputs.cache
+C:\Users\CYAN1\source\repos\AuthSample\C#\obj\Debug\netcoreapp3.1\authsampleconsole.csproj.CopyComplete
+C:\Users\CYAN1\source\repos\AuthSample\C#\obj\Debug\netcoreapp3.1\authsampleconsole.dll
+C:\Users\CYAN1\source\repos\AuthSample\C#\obj\Debug\netcoreapp3.1\authsampleconsole.pdb
+C:\Users\CYAN1\source\repos\AuthSample\C#\obj\Debug\netcoreapp3.1\authsampleconsole.genruntimeconfig.cache
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\authsampleconsole.exe
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\appSettings.json
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\authsampleconsole.deps.json
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\authsampleconsole.runtimeconfig.json
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\authsampleconsole.runtimeconfig.dev.json
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\authsampleconsole.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\authsampleconsole.pdb
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\obj\Debug\netcoreapp3.1\authsampleconsole.csproj.AssemblyReference.cache
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\obj\Debug\netcoreapp3.1\authsampleconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\obj\Debug\netcoreapp3.1\authsampleconsole.AssemblyInfoInputs.cache
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\obj\Debug\netcoreapp3.1\authsampleconsole.AssemblyInfo.cs
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\obj\Debug\netcoreapp3.1\authsampleconsole.csproj.CoreCompileInputs.cache
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\obj\Debug\netcoreapp3.1\authsampleconsole.csproj.CopyComplete
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\obj\Debug\netcoreapp3.1\authsampleconsole.dll
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\obj\Debug\netcoreapp3.1\authsampleconsole.pdb
+C:\Users\CYAN1\source\repos\VeritasAPI Project\C#\obj\Debug\netcoreapp3.1\authsampleconsole.genruntimeconfig.cache
